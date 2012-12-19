@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:e="http://ant.apache.org/ivy/extra">
-	<info organisation="ar.com.gonto" module="factory_pal_2.10" revision="0.1-SNAPSHOT" status="integration" publication="20121218210312">
+	<info organisation="ar.com.gonto" module="factory_pal_2.10" revision="0.1-SNAPSHOT" status="integration" publication="20121219165645">
 		<license name="Apache2" url="http://www.apache.org/licenses/LICENSE-2.0.txt"/>
 		<description>
 		factory_pal
